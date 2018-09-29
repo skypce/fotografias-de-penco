@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bienvenido a Penco Fotografia
+title: Bienvenido a Penco Fotografía
 author: john_doe
 date: '2018-07-03 12:00:00'
 categories: misc
